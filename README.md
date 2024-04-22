@@ -5,3 +5,7 @@ day 1
  run => ./begin
 
 To check Rust Version=> rustc --version
+
+Cargo is Rust’s build system and package manager.
+
+read_line() function is used to read data.

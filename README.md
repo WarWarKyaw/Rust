@@ -1,4 +1,5 @@
 day 1
 ------
- compile =>rustc begin.rs
+ compile =>rustc begin.rs,
+ 
  run => ./begin

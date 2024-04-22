@@ -1,8 +1,9 @@
-day 1
+day 1 Note
 ------
 
 Reference from the link 
 **https://www.geeksforgeeks.org/rust-basics/
+
  compile =>rustc begin.rs,
  
  run => ./begin
